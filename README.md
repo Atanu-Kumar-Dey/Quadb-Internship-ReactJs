@@ -43,6 +43,12 @@ Below is the steps for  installing and setting up the  application locally.
   ```sh
   npm run dev
   ```
+  
+  ## Deployment
+
+This application is also deployed to Vercel[&nbsp;Live Demo](https://quadb-internship-react-js.vercel.app/)
+  
+  
 ## API Reference
 
 The application fetches chat data from the following API:
